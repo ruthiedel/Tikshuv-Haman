@@ -25,7 +25,7 @@ Additional Information
 
 In addition to implementing robust security measures, the project leverages token-based authentication and role-based access control (RBAC) to enhance user access rights. By utilizing tokens, the system ensures secure communication between the client and server, verifying the authenticity of users and protecting against unauthorized access. Moreover, the integration of RBAC allows for fine-grained control over user permissions, enabling administrators to assign specific roles to users based on their responsibilities within the system. Furthermore, Redux is employed for efficient state management, facilitating seamless interaction and data flow across different components of the application. These security measures, combined with Redux for state management, fortify the project against potential security threats and ensure the integrity and confidentiality of user data.
 
-Bonus Questions:
+Bonus Questions
 
     Image Upload: Allows users to upload and display a member's picture on the client-side.
     Architectural Specification: Provides an architectural specification detailing the interaction between different services and APIs, along with a conceptual view of the data in the database.
@@ -34,8 +34,15 @@ Bonus Questions:
         Identifies the number of members who are not vaccinated at all.
 ## Usage
 
-Instructions on how to use the project. Include screenshots of the client-side.
-
+to use the project you first have to make an account with the specific role user/doctor
+in every other entry if you are not conected to the website you will need to log in
+after connecting to the website you can use the navbar to navigate through the pages
+pages are:
+1. add patient
+2. add/update patient covid-19-details
+3. view patients -menual
+4. covid 19 report
+   
 ### Client-side Screenshots
 
 ![Screenshot 1](/path/to/screenshot1.png)
@@ -43,51 +50,84 @@ Instructions on how to use the project. Include screenshots of the client-side.
 
 ## Installation
 
-### Server-side
+### Dependencies
+
+Before running the project, make sure you have the following dependencies installed:
+
+- [https://github.com/ruthiedel/ruthiEdelHmo]([https://github.com/user/dependency-a](https://github.com/ruthiedel/ruthiEdelHmo))
+- [https://github.com/ruthiedel/hmo-server]([https://github.com/user/dependency-b](https://github.com/ruthiedel/hmo-server))
+
+### Setup Instructions
+
+1. Clone the main project repository:
+
+    ```bash
+    git clone https://github.com/user/project.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd project
+    ```
+
+3. Initialize and update dependencies:
+
+    ```bash
+    git submodule init
+    git submodule update
+    ```
+
+4. Follow the instructions in the respective README files of each dependency repository to complete their setup.
+
+### Testing
+
+To test the installation, run the following command:
+
+```bash
+npm test
+```
+
+
+## Server-side
 
 1. Clone the repository:
 
-git clone https://github.com/your/repository.git
+git clone https://github.com/ruthiedel/hmo-server
 
 
 Install dependencies:
 
 
-
+```bash
 cd server
 npm install
+```
 
 Start the server:
 
 
-
+```bash
     node index
-
+```
 Client-side
 
     Install dependencies:
 
-
+```bash
 
 cd client
 npm install
+```
 
 Start the client:
 
-
+```bash
 
     npm start
+```
 
 External Dependencies
 
-Describe any external dependencies used in the project and provide instructions on how to install them.
-Assumptions
 
-List any assumptions made during the implementation of the project.
-Additional Information
-
-Add any additional information or notes about the project here.
-
-
-Replace the placeholder text with the actual information about your project. Make sure to include relevant screenshots of the client-side interface and provide clear instructions for setting up both the server-side and client-side components. Additionally, list any external dependencies used in the project and specify any assumptions made during implementation.
 
