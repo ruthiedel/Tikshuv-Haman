@@ -45,8 +45,10 @@ pages are:
    
 ### Client-side Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![menual](./images/emnual.png)
+![add patient](./images/addpatient.png)
+![add patient covid-19 details](./images/addCovidDetails.png)
+![report](./images/report.png)
 
 ## Installation
 
