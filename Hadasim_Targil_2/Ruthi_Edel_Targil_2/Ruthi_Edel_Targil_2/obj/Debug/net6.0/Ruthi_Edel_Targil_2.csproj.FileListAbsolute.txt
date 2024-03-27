@@ -1,0 +1,43 @@
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.exe
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\refint\Ruthi_Edel_Targil_2.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\ref\Ruthi_Edel_Targil_2.dll
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.exe
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.deps.json
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.runtimeconfig.json
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfoInputs.cache
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfo.cs
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.csproj.CoreCompileInputs.cache
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\refint\Ruthi_Edel_Targil_2.dll
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.genruntimeconfig.cache
+E:\יד\28-03\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\ref\Ruthi_Edel_Targil_2.dll
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.exe
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.deps.json
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.runtimeconfig.json
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\bin\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfoInputs.cache
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.AssemblyInfo.cs
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.csproj.CoreCompileInputs.cache
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.dll
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\refint\Ruthi_Edel_Targil_2.dll
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.pdb
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\Ruthi_Edel_Targil_2.genruntimeconfig.cache
+C:\Users\Ruti\Desktop\רותי\ראיונות ומבחנים\Hadasim_Targil_2\Ruthi_Edel_Targil_2\Ruthi_Edel_Targil_2\obj\Debug\net6.0\ref\Ruthi_Edel_Targil_2.dll
