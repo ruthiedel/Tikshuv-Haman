@@ -45,8 +45,10 @@ pages are:
    
 ### Client-side Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![menual](./images/emnual.png)
+![add patient](./images/addpatient.png)
+![add patient covid-19 details](./images/addCovidDetails.png)
+![report](./images/report.png)
 
 ## Installation
 
@@ -126,8 +128,41 @@ Start the client:
 
     npm start
 ```
-
 External Dependencies
+Frontend Dependencies
 
+    React.js (Client):
+        Description: A JavaScript library for building user interfaces.
+        Website: React.js
+
+    Material-UI (Client):
+        Description: A popular React UI framework for building responsive web applications.
+        Website: Material-UI
+
+    React Hook Form (Client):
+        Description: A library for managing form state in React applications.
+        Website: React Hook Form
+
+    Axios (Client):
+        Description: A promise-based HTTP client for making requests from the browser.
+        Website: Axios
+Backend Dependencies
+
+    Express.js (Server):
+        Description: A web application framework for Node.js used for building APIs and web servers.
+        Website: Express.js
+    Body-parser (Server):
+        Description: A middleware for parsing incoming request bodies in Express.js.
+        Website: Body-parser
+
+Shared Dependencies (Used in both Server and Client)
+
+    Nodemailer (Client & Server):
+        Description: A module for Node.js applications to send emails.
+        Website: Nodemailer
+
+    JWT (Client & Server):
+        Description: JSON Web Tokens for authentication and authorization.
+        Website: JWT
 
 
